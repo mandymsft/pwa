@@ -14,13 +14,10 @@
   "start_url": "./index.html",
   "url_handlers": [
     {
+      "origin": "https://mandymsft.github.io"
+    },
+    {
       "origin": "https://luhuangmsft.github.io"
-    },
-    {
-      "origin": "https://island-alpine-swoop.glitch.me"
-    },
-    {
-      "origin": "https://animated-tortoiseshell-cobra.glitch.me"
     }
   ]
 }
