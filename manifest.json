@@ -1,6 +1,7 @@
 {
   "background_color": "purple",
   "description": "Test App. For testing 'url_handlers' web app manifest member.",
+  "short_name": "Test App",
   "display": "standalone",
   "icons": [
     {
