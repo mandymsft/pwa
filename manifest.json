@@ -4,8 +4,8 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "https://cdn.glitch.com/47e82a3e-e99d-4a0a-86f9-4f8bea8ede1e%2Fastronaut-icon.png?v=1587002651149",
-      "sizes": "1024x1024",
+      "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
