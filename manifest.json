@@ -1,7 +1,7 @@
 {
   "background_color": "purple",
   "description": "Test App. For testing 'url_handlers' web app manifest member.",
-  "display": "standalone",
+  "display": "minimal-ui",
   "icons": [
     {
       "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
