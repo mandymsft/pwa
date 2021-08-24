@@ -18,5 +18,22 @@
     {
       "origin": "https://luhuangmsft.github.io"
     }
-  ]
+  ],
+  "shortcuts": [
+    {
+        "name": "New>> message?",
+        "description": "Compose a new message",
+        "url": "new-mail.html"
+    },
+    {
+        "name": "Some' other action$",
+        "description": "Perform some other action",
+        "url": "other-action-rel.html"
+    },
+    {
+        "name": "Some other action with a very very long name",
+        "description": "Perform some other action with multiple icons",
+        "url": "other-action-absolute.html"
+      }
+    ]
 }
