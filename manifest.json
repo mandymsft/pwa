@@ -23,17 +23,38 @@
     {
         "name": "New>> message?",
         "description": "Compose a new message",
-        "url": "new-mail.html"
+        "url": "new-mail.html",
+        "icons": [
+          {
+            "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
     },
     {
         "name": "Some' other action$",
         "description": "Perform some other action",
-        "url": "other-action-rel.html"
+        "url": "other-action-rel.html",
+        "icons": [
+          {
+            "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
     },
     {
         "name": "Some other action with a very very long name",
         "description": "Perform some other action with multiple icons",
-        "url": "other-action-absolute.html"
+        "url": "other-action-absolute.html",
+        "icons": [
+          {
+            "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
       }
-    ]
+  ]
 }
