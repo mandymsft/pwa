@@ -33,9 +33,9 @@
         ]
     },
     {
-        "name": "Shortcut URL with $",
-        "description": "Test shortcut URL with $",
-        "url": "this$test.html",
+        "name": "Shortcut URL with $ and #",
+        "description": "Test shortcut URL with $ and #",
+        "url": "this$test.html#text",
         "icons": [
           {
             "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
