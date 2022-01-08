@@ -23,7 +23,19 @@
     {
         "name": "Shortcut URL with special characters",
         "description": "Test shortcut URL with special characters",
-        "url": "this$test'is~for*special#chars:in(shorcuts).html",
+        "url": "this'test~is*for:special(chars).html",
+        "icons": [
+          {
+            "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+    },
+    {
+        "name": "Shortcut URL with $",
+        "description": "Test shortcut URL with $",
+        "url": "this$test.html",
         "icons": [
           {
             "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
@@ -43,6 +55,30 @@
             "type": "image/png"
           }
         ]
+    },
+    {
+        "name": "Cat sleeps for 8 hours",
+        "description": "Go to the target page",
+        "url": "https://www.youtube.com/watch?v=T4U6JKT-c0c",
+        "icons": [
+          {
+            "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+    },
+    {
+       "name": "GitHub repo docs",
+        "description": "Go to the target page",
+        "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes#auto-generated-table-of-contents-for-readme-files",
+        "icons": [
+          {
+            "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ] 
     }
   ]
 }
