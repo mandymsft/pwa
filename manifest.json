@@ -21,9 +21,9 @@
   ],
   "shortcuts": [
     {
-        "name": "New>> message?",
-        "description": "Compose a new message",
-        "url": "new-mail.html",
+        "name": "Shortcut URL with special characters",
+        "description": "Test shortcut URL with special characters",
+        "url": "this$test'is~for*special#chars:in(shorcuts).html",
         "icons": [
           {
             "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
@@ -33,9 +33,9 @@
         ]
     },
     {
-        "name": "Some' other action$",
-        "description": "Perform some other action",
-        "url": "other-action-rel.html",
+        "name": "Target test page",
+        "description": "Go to the target page",
+        "url": "target.html",
         "icons": [
           {
             "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
@@ -43,18 +43,6 @@
             "type": "image/png"
           }
         ]
-    },
-    {
-        "name": "Some other action with a very very long name",
-        "description": "Perform some other action with multiple icons",
-        "url": "other-action-absolute.html",
-        "icons": [
-          {
-            "src": "https://cdn.glitch.com/c521d9a0-e779-4888-b5d6-4130c5fc57cf%2Ficon_512.png?v=1585600499036",
-            "sizes": "512x512",
-            "type": "image/png"
-          }
-        ]
-      }
+    }
   ]
 }
